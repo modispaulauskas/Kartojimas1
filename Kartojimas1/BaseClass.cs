@@ -15,7 +15,7 @@ namespace Kartojimas1
             Name = name;
         }
 
-        public string NameMetodas()
+        public virtual string NameMetodas()
         {
             return "";
         }
